@@ -1,4 +1,4 @@
-#Cli commands
+# Cli commands
 
 ## CheckNamesInTextCommandTest
 This command check if “John” and “Mary” names are found the same number of times inside the provided text. If the number of times is the same it should return 1, if not it should return 0.
