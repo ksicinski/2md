@@ -59,3 +59,8 @@ Example structure of product list:
 	}
 ] 
 ```
+
+Example of use command:
+``` 
+php bin/console products:sort '[{"title":"H&M T-Shirt White","price":10.99,"inventory":10},{"title":"Magento Enterprise License","price":1999.99,"inventory":9999},{"title":"iPad 4 Mini","price":500.01,"inventory":2},{"title":"iPad Pro","price":990.2,"inventory":2},{"title":"barmin Fenix 5","price":789.67,"inventory":34},{"title":"armin Fenix 3 HR Sapphire Performer Bundle","price":789.67,"inventory":12}]'
+```
